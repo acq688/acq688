@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there 👋, I'm Amanda
+</h2>
 
-<!--
-**acq688/acq688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=acq688)
 
-Here are some ideas to get you started:
+### About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 VP of Engineering, Product Action @ [BriteCore](https://britecore.com)
+- ☁️ 10+ years of professional experience building and maintaining cloud-based SaaS solutions
+- 👩‍🎓 Working on my Software Management Master's Degree @ [Carnegie Mellon University](https://www.cmu.edu/iii/degrees/mssm/)
+- 🎲 My hobbies include:
+  - 📚  Reading & Writing
+  - 🚴  Cycling & Running
+  - 🧶  Knitting & Crochet
+  - 🍛  Cooking & Craft Beer
+
+<hr/>
+
+### Contact Me:
+- <a href="https://www.linkedin.com/in/amanda-quint-6b699878/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue" /></a>
+- <a href="https://twitter.com/intent/follow?screen_name=acquint"><img src="https://img.shields.io/twitter/follow/acquint?label=%40acquint&style=social" /></a>
+
+<hr/>
+
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=acq688&count_private=true&theme=radical&show_icons=true&hide=contribs,issues&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acq688&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
