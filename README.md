@@ -7,6 +7,7 @@
 ### About Me:
 
 - 🖥️ Co-founder @ [hedgefish](https://hedgefish.com)
+- 🤝 Product Advisory Council Member @ [DevStride](https://www.devstride.com/)
 - 👩‍💻 VP of Engineering, Product Action @ [BriteCore](https://britecore.com)
 - ☁️ 10+ years of professional experience building and maintaining cloud-based SaaS solutions
 - 👩‍🎓 Working on my Software Management Master's Degree @ [Carnegie Mellon University](https://www.cmu.edu/iii/degrees/mssm/)
