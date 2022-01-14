@@ -6,6 +6,7 @@
 
 ### About Me:
 
+- 🖥️ Co-founder @ [hedgefish](https://hedgefish.com)
 - 👩‍💻 VP of Engineering, Product Action @ [BriteCore](https://britecore.com)
 - ☁️ 10+ years of professional experience building and maintaining cloud-based SaaS solutions
 - 👩‍🎓 Working on my Software Management Master's Degree @ [Carnegie Mellon University](https://www.cmu.edu/iii/degrees/mssm/)
@@ -14,6 +15,12 @@
   - 🚴  Cycling & Running
   - 🧶  Knitting & Crochet
   - 🍛  Cooking & Craft Beer
+
+<hr/>
+
+### Posts:
+
+- <a href="https://betterprogramming.pub/out-of-control-backlog-try-prioritization-using-the-maut-technique-642b2c5761a6"> Out-of-Control Backlog? — Try Prioritization Using the MAUT Technique </a> 
 
 <hr/>
 
