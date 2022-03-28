@@ -21,8 +21,7 @@
 
 ### Recent Posts:
 
-- <a href="https://betterprogramming.pub/out-of-control-backlog-try-prioritization-using-the-maut-technique-642b2c5761a6"> Out-of-Control Backlog? — Try Prioritization Using the MAUT Technique </a> 
-- <a href="https://betterprogramming.pub/routing-an-aws-amplify-app-to-a-google-domain-7ca06fe88f0"> How to Route an AWS Amplify App to a Google Domain </a>
+Please check out <a href="https://medium.com/@acquint"> my blog on Medium!</a>
 
 <hr/>
 
