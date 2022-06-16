@@ -27,7 +27,7 @@ Please check out <a href="https://medium.com/@acquint"> my blog on Medium!</a>
 
 ### Buy me a Coffee
 
-If you've found any of my material really helpful, please consider <a href="https://ko-fi.com/amandaquint"> buying me a coffee</a>. 
+If you've found any of my material really helpful, please consider <a href="https://ko-fi.com/amandaquint"> buying me a coffee</a>. ☕
 
 <hr/>
 
