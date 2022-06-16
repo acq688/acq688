@@ -25,6 +25,12 @@ Please check out <a href="https://medium.com/@acquint"> my blog on Medium!</a>
 
 <hr/>
 
+### Buy me a Coffee
+
+If you've found any of my material really helpful, please consider <a href="https://ko-fi.com/amandaquint"> buying me a coffee</a>. 
+
+<hr/>
+
 ### Contact Me:
 - <a href="https://www.linkedin.com/in/amanda-quint-6b699878/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue" /></a>
 - <a href="https://twitter.com/intent/follow?screen_name=acquint"><img src="https://img.shields.io/twitter/follow/acquint?label=%40acquint&style=social" /></a>
