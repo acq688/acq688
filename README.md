@@ -7,10 +7,11 @@
 ### About Me:
 
 - 🖥️ Co-founder @ [hedgefish](https://hedgefish.com)
+- :people_holding_hands: AWS [Community Builder] (https://aws.amazon.com/developer/community/community-builders/)
 - 🤝 Product Advisory Council Member @ [DevStride](https://www.devstride.com/)
 - 👩‍💻 Formerly VP of Engineering, Product Action @ [BriteCore](https://britecore.com)
 - ☁️ 10+ years of professional experience building and maintaining cloud-based SaaS solutions
-- 👩‍🎓 Working on my Software Management Master's Degree @ [Carnegie Mellon University](https://www.cmu.edu/iii/degrees/mssm/)
+- 👩‍🎓 BS in Computer Science @ [Missouri State University] (https://computerscience.missouristate.edu/) and a MS in Software Management @ [Carnegie Mellon University] (https://www.cmu.edu/iii/degrees/mssm/)
 - 🎲 My hobbies include:
   - 📚  Reading & Writing
   - 🚴  Cycling & Running
