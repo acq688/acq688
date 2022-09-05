@@ -20,9 +20,24 @@
 
 <hr/>
 
-### Recent Posts:
+### Recent Content:
 
-Please check out <a href="https://medium.com/@acquint"> my blog on Medium!</a>
+####  <a href="https://medium.com/@acquint"> Follow me on Medium </a>
+
+:arrow_up: Top Articles:
+- <a href="https://medium.com/p/5df9d79dbff9"> 3 Metrics for Engineering Team Success Other Than Velocity </a>
+- <a href="https://medium.com/p/113b5cd9910a"> 10 Lessons I’ve Learned in 10 Years of Software Development </a>
+- <a href="https://medium.com/p/b5a953e00f11"> Software Estimation: Points vs. Time </a>
+
+#### <a href="https://dev.to/acquint"> AWS Community Builder Posts on dev.to </a>
+
+:arrow_up: Top Articles:
+
+- <a href="https://dev.to/aws-builders/fixing-a-performance-anti-pattern-with-dynamodb-and-lessons-learned-e67"> Fixing a Performance Anti-Pattern with DynamoDB (and Lessons Learned) </a>
+
+#### :mega: Other Content:
+
+- <a href="https://www.youtube.com/watch?v=-qpCJqQByx0&t=6s"> My 2022 PyOhio Talk </a>
 
 <hr/>
 
