@@ -7,7 +7,7 @@
 ### About Me:
 
 - 🖥️ Co-founder @ [hedgefish](https://hedgefish.com)
-- :people_holding_hands: [4x AWS Certified](https://www.credly.com/users/amanda-quint/badges) and an AWS [Community Builder](https://aws.amazon.com/developer/community/community-builders/) for 2022-2023
+- :people_holding_hands: [4x AWS Certified](https://www.credly.com/users/amanda-quint/badges) and an AWS [Community Builder](https://aws.amazon.com/developer/community/community-builders/) for 2022-2024
 - 🤝 Product Advisory Council Member @ [DevStride](https://www.devstride.com/)
 - 👩‍💻 Formerly VP of Engineering, Product Action @ [BriteCore](https://britecore.com)
 - ☁️ 10+ years of professional experience building and maintaining cloud-based SaaS solutions
